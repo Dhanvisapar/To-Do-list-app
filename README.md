@@ -1,6 +1,6 @@
-# 📝 To‑Do List Web App — README
+📝 To‑Do List Web App — README
 
-## 📌 Overview
+ 📌 Overview
 
 This project is a **To‑Do List Web Application** built using **HTML, CSS, and Vanilla JavaScript**. It allows users to manage daily tasks with an intuitive and visually appealing interface.
 
@@ -10,7 +10,7 @@ The app includes multiple advanced features such as task editing, task completio
 
 ## 🚀 Features
 
-### ✅ Core Features
+ ✅ Core Features
 
 * Add new tasks
 * Mark tasks as completed
@@ -19,7 +19,7 @@ The app includes multiple advanced features such as task editing, task completio
 * Clear all tasks
 * Clear only completed tasks
 
-### ✨ Enhanced Features
+✨ Enhanced Features
 
 * Beautiful modern UI (blue–teal gradient theme)
 * Smooth animations
@@ -41,23 +41,13 @@ project-folder/
 
 ---
 
-## 🛠 Technologies Used
+ 🛠 Technologies Used
 
 * **HTML5** — App structure
 * **CSS3** — Styling, gradients, animations
 * **JavaScript (ES6)** — DOM manipulation, logic, storage
 * **LocalStorage** — Save tasks permanently
 
----
-
-## ▶️ How to Run the App
-
-1. Download all the project files
-2. Keep them in the **same folder**
-3. Open **index.html** in any modern browser (Chrome, Edge, Firefox…)
-4. Start adding tasks!
-
----
 
 ## 📌 How LocalStorage Works
 
@@ -66,20 +56,4 @@ The app automatically stores:
 * Task text
 * Task completion state
 
-This means your tasks remain saved even after closing or refreshing the browser.
-
----
-
-## 🔧 Future Enhancements (Optional Ideas)
-
-You can extend the app with:
-
-* Dark mode toggle
-* Search bar for tasks
-* Drag and drop sorting
-* Categories / labels
-
-  👨‍💻 Author
-Project created for internship assignment — fully editable and customizable.
-If you want a **GitHub-ready version**, **ZIP file**, or **PDF submission**, just ask!
 
